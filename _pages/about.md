@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "个人简介"
-excerpt: "个人简介"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Dian Shen is is currently an associate professor and doctoral supervisor at the School of Computer Science and Engineering, Southeast University. He is also a "Zhi Shan" Exellent Young Scholar at Southeast University. Dr. Shen received his bachelor's and master's degrees from the School of Software Engineering, Southeast University in 2010 and 2012 respectively. In 2018, he obtained his PhD degree from the School of Computer Science and Engineering, Southeast University, under the supervision of [Prof. Luo Junzhou](https://cse.seu.edu.cn/2019/0102/c23024a257045/page.htm).
+Dian Shen is is currently an associate professor at the School of Computer Science and Engineering, Southeast University. He is also a "Zhi Shan" Exellent Young Scholar at Southeast University. Dr. Shen received his bachelor's and master's degrees from the School of Software Engineering, Southeast University in 2010 and 2012 respectively. In 2018, he obtained his PhD degree from the School of Computer Science and Engineering, Southeast University, under the supervision of [Prof. Luo Junzhou](https://cse.seu.edu.cn/2019/0102/c23024a257045/page.htm).
 
 In 2013, he participated in the European Union Framework Programme-7 "Marie Curie" Talent Plan and worked as a visiting researcher at the Coventry University in the UK. In 2021, supported by the "Jiangsu Province Excellent Young Teachers Overseas Research Program," he worked as a visiting researcher at the Chinese University of Hong Kong, under the supervision of [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/).
 
@@ -28,23 +28,27 @@ Publications:
 12. Dong Fang, Zhang Junxue, Luo Junzhou, **Shen Dian**, et al. *Enabling Application-aware Flexible Graph Partition Mechanism for Parallel Graph Processing Systems*[J]// Concurrency and Computation: Practice and Experience, 2016. (CCF C)
 13. Dong Fang, Zhou Pengcheng, Liu Zijian, **Shen Dian***, et al. *Towards a fast and secure design for enterprise‐oriented cloud storage systems*[J]. Concurrency and Computation: Practice and Experience, 2017, 29(19). (CCF C)
 
+Opensource:
+======
+[eMPTCP: an eBPF based MPTCP control framework](https://github.com/chonepieceyb/mptcp_ebpf_control_frame)
+
 Academic Services:
 ======
-1. ICA3PP 23 Workshop - Datacenter Networking and Applications PC Co-chair
-1. Bigcom 2023 PC member
-2. IEEE MSN 2022 PC member
-3. IEEE CSCWD 2018-2022 PC member
-4. IEEE Transactions on Networking Reviewer
-5. IEEE Transactions on Mobile Computing Reviewer
-6. IEEE Transactions on Services Computing Reviewer
+1. ICA3PP 23 Workshop - Datacenter Networking and Applications, PC Co-chair
+2. Bigcom 2023, PC member
+3. IEEE MSN 2022, PC member
+4. IEEE CSCWD 2018-2022, PC member
+5. IEEE Transactions on Networking, Reviewer
+6. IEEE Transactions on Mobile Computing, Reviewer
+7. IEEE Transactions on Services Computing, Reviewer
 
 Research Projects:
 ======
 1. NSFC General Project: "Research on End-to-End Collaboration Transmission Mechanism for Deterministic Delay in Time-Sensitive Network Systems" (No. 6227072991), 530,000 RMB, PI
 2. NSFC Youth Project: "Research on Application-Aware Network Resource Management and Optimization Mechanism in RDMA Container Cloud Architecture" (No. 61902065), 250,000 RMB, PI
 3. Jiangsu Provincial Natural Science Foundation Youth Project: "Research on Low-Latency Container Cloud Network Resource Management Mechanism for Application Awareness", 200,000 RMB, PI
-4. Huawei Research Department Technical Cooperation Project: "VAS Flow Correlation Technology for Data Center Networks Based on Intelligent Algorithms", 660,000 RMB, PI.
+4. Huawei Research  Project: "VAS Flow Correlation Technology for Data Center Networks Based on Intelligent Algorithms", 660,000 RMB, PI.
 5. National Key Research and Development Program: "Key Technologies and Systems for Intelligent Cloud Collaboration in Industrial Internet" (2017YFB1003000), 18.16 million RMB, Main Participant.
-6. National Natural Science Foundation Major International (Regional) Cooperation Project: "Research on Key Technologies for Big Data Processing in AMS" (61320106007), 2.9 million RMB, Main Participant.
+6. NSFC Major (International) Cooperation Project: "Research on Key Technologies for Big Data Processing in AMS" (61320106007), 2.9 million RMB, Main Participant.
 
 
