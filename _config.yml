@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "沈典的个人主页"
+title                    : "Dian's Homepage"
 title_separator          : "-"
-name                     : &name "Dr.沈典"
-description              : &description "博士，东南大学计算机科学与工程学院副教授，博士生导师"
-url                      : https://dianshenseu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dian Shen"
+description              : &description "PhD.，Assiciate Professor, School of Computer Science and Technology, Southeast University"
+url                      : https://dianshenseu.github.io/en # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dianshenseu.github.io"
+repository               : "dianshenseu.github.io/en"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr.沈典"
+  name             : "Dr. Dian Shen"
   avatar           : "profile.png"
-  bio              : "博士，东南大学计算机科学与工程学院副教授，博士生导师。研究方向：云(边缘)计算、网络智能、数据中心网络"
-  location         : "江苏省，南京市"
-  location1        : "江苏省南京市东南大学九龙湖校区计算机楼166室"
-  location2        : "江苏省苏州市独墅湖高教区东南大学软件学院两江院211室"
+  bio              : "Associate Professor, Southeast University"
+  location         : "Southeast University, China"
+  location1        : ""
+  location2        : ""
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KXhY9YIAAAAJ"
   email            : "dshen@seu.edu.cn"
