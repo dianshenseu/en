@@ -14,6 +14,8 @@ In 2013, he participated in the European Union Framework Programme-7 "Marie Curi
 
 Publications:
 ======
+1. **Dian Shen**，Junzhou Luo, Fang Dong, Xiaolin Guo, Ciyuan Chen, Kai Wang, John C.S. Lui. Enabling Distributed and Optimal RDMA Resource Sharing in Large-scale Data Center Networks: Modeling, Analysis, and Implementation. ACM/IEEE Transactions on Networking, 2023. (CCF A)
+1. Daheng Yin, Fang Dong, Baijun Chen, **Dian Shen**, Ruiting Zhou, Xiaolin Guo, Zhaowu Huang. WAEVSR: Enabling Collaborative Live Video Super-Resolution in Wide-Area MEC Environment. The IEEE/ACM International Symposium on Quality of Service 2023 (IWQoS 2023). (CCF B)
 1. Bin Yang, **Dian Shen***, Junxue Zhang, Fang Dong, Junzhou Luo, John C.S. Lui. Towards the Full Extensibility of Multipath TCP with eMPTCP. 2022 IEEE International Conference on Network Protocols (ICNP). (TH-CPL A)
 2. Xiaolin Guo, Fang Dong, **Dian Shen**, Zhaowu Huang. Exploiting the Computational Path Diversity with In-network Computing for MEC. IEEE SECON 2022. Accept.（CCF B）
 3. **Dian Shen**, Yi Zhai, Fang Dong, Junzhou Luo. Last-mile Matters: Mitigating the Tail Latency of Virtualized Networks with Multipath Data Plane. IEEE CLUSTER 2022. (CCF B)
